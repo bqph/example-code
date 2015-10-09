@@ -1,6 +1,6 @@
 import timeit
 
-TIMES = 100000
+TIMES = 10000
 
 SETUP = """
 symbols = '$¢£¥€¤'
